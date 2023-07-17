@@ -1,0 +1,115 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.webname{
+    color: rgb(80, 66, 3);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+}
+.number{
+    
+        color: rgb(80, 66, 3);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        display: inline-block;
+    
+    
+}
+.navbar .nav-item .nav-link {
+    color: rgb(80, 66, 3);
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 5px 10px;
+}
+
+.subheading{
+    font-size: x-large;
+    border: 3px dashed rgb(80, 66, 3);
+}
+.mainheading1{
+    font-size: 142px;
+    color: rgb(80, 66, 3);
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mainheading2{
+    font-size: 120px;
+    color: rgb(80, 66, 3);
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.burgerimage{
+    width: 70%;
+    height: auto;
+}
+.sectionmain{
+    background-image: url(img/bgimg.png);
+    background-position: center;
+    background-size: cover;
+    
+}
+.featured-item-left{
+    height: 500px;
+}
+.featured-item-right{
+    height: 500px;
+}
+
+.featured-item-part1{
+    font-family:ui-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(80, 66, 3);
+}
+.featured-item-part2{
+    font-family: ui-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(80, 66, 3);
+}
+.featured-item-part3{
+    font-family: ui-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(80, 66, 3);
+
+}
+.always{
+    font-family: ui-serif;
+}
+.choose{
+    font-family: ui-serif;
+}
+.discoverdiv{
+    box-shadow: 0px 0px 15px black ;
+}
+.ordernow{
+  font-style:oblique;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.colddrink{
+    margin-top: 75px;
+    margin-left: 279px;
+}
+.burgerimg{
+    margin-top: 80px;
+    margin-left: 1170px
+}
+.footerimg{
+
+    margin-top: 50px;
+    width: 100%;
+    height: 600px;
+    
+}
+.footerlogo{
+    background-image: url(img/f1_cleanup.png);
+    width: 90%;
+    height: 400px;
+    left: 15px;
+    margin-top: 50px;
+}
+.footerlogo span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
